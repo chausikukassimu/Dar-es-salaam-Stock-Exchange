@@ -1,4 +1,4 @@
-# - Dar es Salaam Stock Exchange (DSE)  Quantitative Analysis
+<h1 align='center'>Dar es Salaam Stock Exchange (DSE)  Quantitative Analysis</h1>h1>
 
 ---
 
